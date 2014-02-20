@@ -1,0 +1,14 @@
+.alex_info td{
+	vertical-align:middle;
+	
+	background-color:#ffffff;
+
+	border:1px solid #3f7f00;
+	border-width:0px 1px 1px 0px;
+	text-align:left;
+	padding:7px;
+	font-size:10px;
+	font-family:Arial;
+	font-weight:bold;
+	color:#0b53aa;
+    }

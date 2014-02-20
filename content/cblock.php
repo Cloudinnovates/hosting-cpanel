@@ -1,0 +1,1 @@
+ <?include('pages/database_content.php');?>

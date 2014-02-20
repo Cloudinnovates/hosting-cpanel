@@ -1,0 +1,107 @@
+*{
+  padding: 0px;
+  outline: 0px;
+  margin:  0px;
+  color:#0b53aa;
+}
+a{
+  text-decoration: none;
+  color: #9EEE35;
+}
+body{
+  background: url(../images/Back.jpg);
+  color: #FFCC33;
+  font-family: Tahoma;
+  padding: 10px;
+
+
+}
+
+input[type=text] {
+background: url(../images/back.png);
+color: #00FF00;
+}
+input[type=password] {
+background: url(../images/back.png);
+color: #00FF00;
+}
+#index
+{
+
+   background: url(../images/back.png);
+   height: 1200;
+
+
+}
+
+#header{
+  padding-top: 30px;
+  text-align: center;
+  border: 1px solid #99CCCC;
+  background: #000000;
+  color: #FFFFFF;
+  height:200px;
+  font-size: xx-large;
+  font-weight: bold;
+  font-family: Tahoma;
+}
+#rblock{
+  width: 40%;
+  float: right;
+  margin-left: 5px;
+  height:50%;
+
+}
+#lblock{
+  width: 40%;
+  float: left;
+  margin-right: 5px;
+  padding: 10px;
+ color:#0b53aa;
+
+
+}
+#cblock{
+  width: 100%;
+  margin-right: 190px;
+  margin-left: 190px;
+  padding: 10px;
+}
+
+#footer{
+    width:100%;
+    height: 20px;
+   padding-top: 10%;
+color:red;
+height: 10%;
+text-align:center;
+
+}
+
+.logout a{
+    color:red;
+    }
+.logout a:hover{
+        color:blue;
+    
+}
+.link   a{
+            color:#4e77e0;
+
+}
+
+#element_to_pop_up { 
+    background-color:#fff;
+    border-radius:15px;
+    color:#000;
+    display:none; 
+    padding:20px;
+    min-width:50%;
+    min-height: 50%;
+}
+.b-close{
+    cursor:pointer;
+    position:absolute;
+    right:10px;
+    top:5px;
+}
